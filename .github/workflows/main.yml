@@ -5,7 +5,7 @@
         "type": "mtasa",
         "appId": 0,
         "discord": {
-            "channelIds": ["962237013652799528"]
+            "channelIds": ["962237013652799528" , "962283926930485248"]
         },
         "telegram": {
             "chatIds": []
